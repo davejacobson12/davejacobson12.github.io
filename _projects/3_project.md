@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
+title: example report
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://davejacobson12.github.io/malaria_genotyping_report/
 importance: 3
 category: work
 ---
