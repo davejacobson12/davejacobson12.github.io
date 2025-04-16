@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Examples of the projects I've worked as a bioinformatician and data analyst
 nav: true
 nav_order: 3
-display_categories: [Reports]
+display_categories: [CDC Reports, CDC Bioinformatics, Graduate School Bioinformatics, Fun Projects]
 horizontal: false
 ---
 

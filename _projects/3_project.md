@@ -5,7 +5,7 @@ description: Report shared with public health partners for malaria surveillance
 img: assets/img/malaria_surveillance.jpg
 redirect: https://davejacobson12.github.io/malaria_genotyping_report/
 importance: 2
-category: Reports
+category: CDC Reports
 ---
 
 Every project has a beautiful feature showcase page.

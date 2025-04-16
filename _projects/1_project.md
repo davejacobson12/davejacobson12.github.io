@@ -5,7 +5,7 @@ description: Report shared with public health partners for foodborne disease sur
 img: assets/img/cdc_foodborne_pic.jpg
 redirect: https://davejacobson12.github.io/cyclospora_genotyping_report/
 importance: 1
-category: Reports
+category: CDC Reports
 ---
 
 Every project has a beautiful feature showcase page.
