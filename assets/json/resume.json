@@ -1,36 +1,21 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "David K. Jacobson",
+    "label": "Bioinformatician / Data Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "davejacobson12@gmail.com",
+    "phone": "(440) 334-4010",
+    "url": "https://www.linkedin.com/in/dkjacobson-bioinformatician/",
+    "summary": "Detail-oriented bioinformatician with expertise developing and managing bioinformatic workflows for microbial metagenomic and whole-genome sequencing analysis from a variety of sample types. Seeking to leverage expertise in next-generation sequencing, bioinformatics tools (Python, R, Nextflow, Singularity), and multi-omic research to advance public health impacts through innovative analytical approaches."
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Centers for Disease Control and Prevention ",
+      "position": "Associate Service Fellow",
+      "startDate": "2023-3-26",
+      "endDate": "2025-03-25",
+      "summary": "Led bioinformatic analysis for parasite genotyping in nationwide surveillance of \textit{Cyclospora} and \textit{Plasmodium} to resolve outbreak clusters, identify infectious disease trends, and inform epidemiologic decision making on parasitic disease.",
+      "highlights": ["Developed and maintained Nextflow bioinformatic pipelines in CDC's HPC infrastructure by integrating nf-core modules with custom R, python, and bash scripts to ensure bioinformatic analyses incorporate state-of-the-art techniques and software, such as machine learning to identify geographic origin of \textit{P. vivax} parasites.", "Worked closely with lab staff to identify improved genotyping markers / sequencing approaches for \textit{Cyclospora} and \textit{Plasmodium} nationwide surveillance efforts and optimized bioinformatic pipelines for new NGS data by validating accuracy and replicating published results."]
     }
   ],
   "volunteer": [
