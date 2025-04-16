@@ -5,7 +5,7 @@ permalink: /projects/
 description: Examples of the projects I've worked as a bioinformatician and data analyst
 nav: true
 nav_order: 3
-display_categories: [CDC Reports, CDC Bioinformatics, Graduate School Bioinformatics, Fun Projects]
+display_categories: [Domestic Surveillance Reports, Domestic Surveillance Analyses, Human Microbiome Analyses, Fun Projects]
 horizontal: false
 ---
 
