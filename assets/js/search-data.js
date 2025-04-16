@@ -447,6 +447,11 @@ ninja.data = [{
           description: "Report shared with public health partners for malaria surveillance",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-archaeological-dental-calculus",
+          title: 'Archaeological dental calculus',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/burkina_faso/";
             },},{
         id: 'social-email',
         title: 'email',
