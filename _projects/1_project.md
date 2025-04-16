@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Cyclospora Surveillance Report
+description: Report shared with public health partners for foodborne disease surveillance
+img: assets/img/cdc_foodborne_pic.jpg
+redirect: https://davejacobson12.github.io/cyclospora_genotyping_report/
 importance: 1
-category: work
-related_publications: true
+category: Reports
 ---
 
 Every project has a beautiful feature showcase page.

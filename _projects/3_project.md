@@ -1,11 +1,11 @@
 ---
 layout: page
-title: example report
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Malaria Surveillance Report
+description: Report shared with public health partners for malaria surveillance
+img: assets/img/malaria_surveillance.jpg
 redirect: https://davejacobson12.github.io/malaria_genotyping_report/
-importance: 3
-category: work
+importance: 2
+category: Reports
 ---
 
 Every project has a beautiful feature showcase page.
