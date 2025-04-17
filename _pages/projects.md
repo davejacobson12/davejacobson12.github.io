@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: Examples of the projects I've worked as a bioinformatician and data analyst
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [Domestic Surveillance Reports, Domestic Surveillance Analyses, Human Microbiome Analyses, Fun Projects]
 horizontal: false
 ---
