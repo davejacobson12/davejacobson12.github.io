@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Welcome
 permalink: /
-subtitle: Bioinformatician / Data Analyst | Expertise in Python, R, and Pipeline Development | Using Big Data to Understand Complex Datasets
+subtitle: Passionate about transforming complex data into meaningful, data-driven insights
 
 
 profile:
@@ -25,29 +25,28 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-### Backround and Interests
+## Snapshot :camera_flash:
+- Experienced bioinformatician / data scientist with a strong background in biomedical research, microbial genomics, and data analysis.
+- Skilled in building reproducible workflows, translating complex data into actionable insights, and collaborating across teams.
+- Technical expertise in Python, R, Nextflow, containerization (Docker/Singularity), and data visualization tools like Power BI.
+- Proven track record in genomic surveillance, microbiome research, and applied data science.
 
-I’m David Jacobson, PhD — a bioinformatician and data scientist passionate about transforming complex data into meaningful, data-driven insights.
+## Tools :desktop_computer:
+- Languages: Python, R, Nextflow, BASH, SQL, open-source bioinformatic tools (BLAST, bowtie2, samtools, GATK, etc.)
+- Visualization: Rshiny, Rmarkdown, PowerBI, Tableau
+- Code Management: Git, Singularity, Docker, Conda
+- Bioinformatics: SNP Calling, Genome Reconstruction / Assembly, Functional Annotation, Molecular Epidemiology, Microbiome Analysis (16S rRNA, Metagenomics)
+- Analytics: Clustering, Machine Learning, Performance Optimization, Parametric / Non-Parametric Stats
 
-At the Centers for Disease Control and Prevention (CDC), I led efforts in molecular surveillance of parasitic diseases, developing advanced analytical methods that reveal the genetic diversity of pathogens like Plasmodium. These insights directly informed outbreak response strategies and national surveillance efforts. By optimizing and containerizing bioinformatic workflows, our team has significantly improved the accuracy of genetic clustering and reduced turnaround times for critical public health investigations.
+## Projects :books:
+- Jump to the [Projects tab](https://davejacobson12.github.io/projects/) for analyses, workflows, and reports. 
+  - Note the reports are facsimiles using dummy data instead of real outbreak clusters and IDs.
 
-A core part of my role is translating complex molecular data into clear, actionable insights for a wide audience—including epidemiologists, laboratory scientists, and federal decision-makers. I bring a strong foundation in data science and analytics, with experience in statistical modeling, Power BI dashboarding, and integrating multi-source data in high-performance computing environments. My tools of choice include Python, R, Nextflow, Bash, Singularity, Docker, Git, and cloud/HPC platforms.
+## Code Availability :floppy_disk:
+- My [GitHub Portfolio](https://github.com/davejacobson12/Portfolio) hosts code used for the  Projects tab.
+- The [Repositories tab](https://davejacobson12.github.io/repositories/) has links to GitHub repos where I've contributed code.
 
-My background also includes a PhD in Anthropology, where I specialized in microbiome bioinformatics. I developed scalable workflows for analyzing shotgun metagenomic and 16S rRNA data, applying these tools to projects ranging from ovarian cancer and gut microbiome resilience to ancient DNA. I collaborated with clinicians, researchers, and international partners to generate rigorous, peer-reviewed publications that have expanded our understanding of microbial diversity across populations and contexts.
 
-Whether through genomic surveillance, microbial ecology, or applied data analytics, I am dedicated to using computational tools to solve real-world problems. This portfolio highlights some of the impactful projects I’ve worked on and the skills I bring to the intersection of bioinformatics, data science, and public health.
 
-### Navigating through the Portfolio
 
-#### Projects
-Jump to the [Publications tab]() to take a look at the various analyses, workflows, and reports that I've generated over the past few years. Note that the reports section consists of facsimiles of the reports I developed at CDC, but use dummy data instead of real outbreak clusters and IDs.
-
-#### Publications
-A list of of all publications where I am a first, last, or co-author can be found in the [Publications tab](). Alternatively, click the google scholor icon on the bottom of this page to be taken to my google scholar page.
-
-#### CV / Resume
-Links to my CV and resumes can be found in the [CV / Resume tab]()
-
-#### Code Availability
-Links to the code used to generate the content in the Projects tab can be found in the [repositories tab]()
 
