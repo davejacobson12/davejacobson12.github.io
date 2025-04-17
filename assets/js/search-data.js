@@ -437,21 +437,61 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-cyclospora-surveillance-report",
+          section: "News",},{id: "projects-ancient-oral-microbiomes",
+          title: 'Ancient Oral Microbiomes',
+          description: "Coming Soon",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ancient_dna/";
+            },},{id: "projects-human-gut-microbiome-diversity-across-lifestyles",
+          title: 'Human Gut Microbiome Diversity Across Lifestyles',
+          description: "Coming Soon",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/burkina_faso/";
+            },},{id: "projects-foodborne-disease-outbreak-detection",
+          title: 'Foodborne Disease Outbreak Detection',
+          description: "Coming Soon",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cyclo_8marker/";
+            },},{id: "projects-optimizing-foodborne-disease-outbreak-detection",
+          title: 'Optimizing Foodborne Disease Outbreak Detection',
+          description: "Coming Soon",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cyclo_additional/";
+            },},{id: "projects-cyclospora-surveillance-report",
           title: 'Cyclospora Surveillance Report',
           description: "Report shared with public health partners for foodborne disease surveillance",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/cyclo_surveillance/";
+            },},{id: "projects-monitoring-antimalarial-drug-resistance",
+          title: 'Monitoring Antimalarial Drug Resistance',
+          description: "Coming Soon",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/falciparum/";
+            },},{id: "projects-malaria-surveillance-dashboard",
+          title: 'Malaria Surveillance Dashboard',
+          description: "Report shared with public health partners for foodborne disease surveillance (Dashboard under development)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/malaria_dash/";
             },},{id: "projects-malaria-surveillance-report",
           title: 'Malaria Surveillance Report',
           description: "Report shared with public health partners for malaria surveillance",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-archaeological-dental-calculus",
-          title: 'Archaeological dental calculus',
-          description: "",
+              window.location.href = "/projects/malaria_surveillance/";
+            },},{id: "projects-gut-and-vaginal-microbiomes-response-to-chemotherapy",
+          title: 'Gut and Vaginal Microbiomes Response to Chemotherapy',
+          description: "Coming Soon",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/burkina_faso/";
+              window.location.href = "/projects/ovarian_cancer/";
+            },},{id: "projects-etl-workflows-for-internal-sample-tracking",
+          title: 'ETL Workflows for Internal Sample Tracking',
+          description: "Coming Soon",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tracker_updates/";
+            },},{id: "projects-tracking-domestic-malaria-cases",
+          title: 'Tracking Domestic Malaria Cases',
+          description: "Coming Soon",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vivax/";
             },},{
         id: 'social-email',
         title: 'email',
