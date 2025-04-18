@@ -40,14 +40,14 @@ latest_posts:
 - :speaking_head: Communication: Technical and Non-techinical Stakeholder Reports, Nationwide Presentations, Scientific Manuscripts
 
 <!-- option without  emojis -->
-<!-- ## Tools :toolbox: -->
-<!-- - Languages: Python, R, Nextflow, BASH, SQL, open-source bioinformatic tools (BLAST, bowtie2, samtools, GATK, etc.)
+<!-- ## Tools :toolbox:
+- Languages: Python, R, Nextflow, BASH, SQL, open-source bioinformatic tools (BLAST, bowtie2, samtools, GATK, etc.)
 - Visualization: Rshiny, Rmarkdown, PowerBI, Tableau
 - Code Management: Git, Singularity, Docker, Conda
 - SNP Calling, Genome Reconstruction / Assembly, Functional Annotation, Molecular Epidemiology, Microbiome Analysis (16S rRNA, Metagenomics) and more ...
 - Analytics: Clustering, Machine Learning, Performance Optimization, Parametric / Non-Parametric Stats
-- Communication: Technical and Non-techinical Stakeholder Reports, Nationwide Presentations, Scientific Manuscripts -->
-
+- Communication: Technical and Non-techinical Stakeholder Reports, Nationwide Presentations, Scientific Manuscripts
+ -->
 
 ## Projects :books:
 - Jump to the [Projects tab](https://davejacobson12.github.io/projects/) for analyses, workflows, and reports. 
@@ -57,7 +57,7 @@ latest_posts:
 - My [GitHub Portfolio](https://github.com/davejacobson12/Portfolio) hosts code used for the  Projects tab.
 - The [Repositories tab](https://davejacobson12.github.io/repositories/) has links to GitHub repos where I've contributed code.
 
-## More About Me :hiking_boot:
+## More About Me :camping:
 - Head over to the [Background Tab](https://davejacobson12.github.io/background/) for more information on my professional / academic background and to learn more about me!
 
 
