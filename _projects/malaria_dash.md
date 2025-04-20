@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Malaria Surveillance Dashboard
-description: Report shared with public health partners for foodborne disease surveillance (Dashboard under development)
+description: Internal tracking of specimens submitted for malaria surveillance (Dashboard under development)
 img: assets/img/malaria_dash.jpg
 redirect: https://public.tableau.com/views/surveillance_v1_dj/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 importance: 3
