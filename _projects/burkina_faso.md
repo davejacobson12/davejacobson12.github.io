@@ -2,7 +2,7 @@
 layout: page
 title: Human Gut Microbiome Resilience
 description: Estimating functional resilience and redudancy between lifestyles
-img: /assets/img/sfca_map.jpg
+img: /assets/img/sfca_map.jpeg
 importance: 9
 category: Human Microbiome Analyses
 ---
