@@ -428,9 +428,9 @@ ninja.data = [{
           description: "Coming Soon",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ancient_dna/";
-            },},{id: "projects-human-gut-microbiome-diversity-across-lifestyles",
-          title: 'Human Gut Microbiome Diversity Across Lifestyles',
-          description: "Coming Soon",
+            },},{id: "projects-human-gut-microbiome-resilience",
+          title: 'Human Gut Microbiome Resilience',
+          description: "Estimating functional resilience and redudancy between lifestyles",
           section: "Projects",handler: () => {
               window.location.href = "/projects/burkina_faso/";
             },},{id: "projects-foodborne-disease-outbreak-detection",
@@ -455,7 +455,7 @@ ninja.data = [{
               window.location.href = "/projects/falciparum/";
             },},{id: "projects-malaria-surveillance-dashboard",
           title: 'Malaria Surveillance Dashboard',
-          description: "Report shared with public health partners for foodborne disease surveillance (Dashboard under development)",
+          description: "Internal tracking of specimens submitted for malaria surveillance (Dashboard under development)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/malaria_dash/";
             },},{id: "projects-malaria-surveillance-report",
