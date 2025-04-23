@@ -2,7 +2,7 @@
 layout: page
 title: Human Gut Microbiome Resilience
 description: Estimating functional resilience and redudancy between lifestyles
-img: /assets/img/sfca_map.jpg
+img: /assets/img/jaco3003_DDIG_ball_cup_nonresiliant.jpg
 importance: 9
 category: Human Microbiome Analyses
 ---
@@ -22,6 +22,13 @@ I studied shotgun metagenomic data from 12 populations across the world, includi
 
 ### Findings 
 Overall, non-industrial gut microbiomes had greater richness and evenness for production of SCFAs. The increased number of taxa producing SCFAs, and their generally even relative abundance in the microbial community, suggests that non-industrial gut microbiomes are more resilient for SCFA production. However, the picture is clouded by ascertainment bias that meant detecting the taxa involved in SCFA production was more likely in industrial microbiomes than non-industrial microbiomes. This indicates that the levels of resilience in non-industrial gut microbiomes is underestimated.
+
+### My Role
+- Sample Collection: labeling sample collection tubes, shipping collection materials internationally
+- Sample Processing: DNA extraction (Travelled to Burkina Faso to train collaborators), qPCR, PCR (shotgun metagenomics), library preparation
+- Analysis: Bioinformatic analysis (QC, genome assembly, functional prediction), statistical analysis (ecological resilience, taxonomic abundance)
+- Publication: Lead author, figure generation
+
 
 ### Publications
 
