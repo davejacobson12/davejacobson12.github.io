@@ -425,7 +425,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-ancient-oral-microbiomes",
           title: 'Ancient Oral Microbiomes',
-          description: "Coming Soon",
+          description: "Applying ecological principles to ancient microbiome data",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ancient_dna/";
             },},{id: "projects-human-gut-microbiome-resilience",
@@ -435,14 +435,9 @@ ninja.data = [{
               window.location.href = "/projects/burkina_faso/";
             },},{id: "projects-foodborne-disease-outbreak-detection",
           title: 'Foodborne Disease Outbreak Detection',
-          description: "Coming Soon",
+          description: "Identifying and reporting Cyclospora foodborne outbreaks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cyclo_8marker/";
-            },},{id: "projects-optimizing-foodborne-disease-outbreak-detection",
-          title: 'Optimizing Foodborne Disease Outbreak Detection',
-          description: "Coming Soon",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/cyclo_additional/";
             },},{id: "projects-cyclospora-surveillance-report",
           title: 'Cyclospora Surveillance Report',
           description: "Report shared with public health partners for foodborne disease surveillance",
@@ -450,7 +445,7 @@ ninja.data = [{
               window.location.href = "/projects/cyclo_surveillance/";
             },},{id: "projects-monitoring-antimalarial-drug-resistance",
           title: 'Monitoring Antimalarial Drug Resistance',
-          description: "Coming Soon",
+          description: "Characterizing P. falciparum genomes and high-profile case investigations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/falciparum/";
             },},{id: "projects-malaria-surveillance-dashboard",
@@ -465,17 +460,17 @@ ninja.data = [{
               window.location.href = "/projects/malaria_surveillance/";
             },},{id: "projects-gut-and-vaginal-microbiomes-response-to-chemotherapy",
           title: 'Gut and Vaginal Microbiomes Response to Chemotherapy',
-          description: "Coming Soon",
+          description: "Identifying microbiome biomarkers associated with response to chemotherapy treatments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ovarian_cancer/";
             },},{id: "projects-etl-workflows-for-internal-sample-tracking",
           title: 'ETL Workflows for Internal Sample Tracking',
-          description: "Coming Soon",
+          description: "Cleaning, merging, maintaining genomic surveillance databases",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tracker_updates/";
             },},{id: "projects-tracking-domestic-malaria-cases",
           title: 'Tracking Domestic Malaria Cases',
-          description: "Coming Soon",
+          description: "Identifying locally transmitted P. vivax in the U.S.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vivax/";
             },},{
