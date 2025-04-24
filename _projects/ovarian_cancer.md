@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Gut and Vaginal Microbiomes Response to Chemotherapy
-description: Coming Soon
+description: Identifying microbiome biomarkers associated with response to chemotherapy treatments
 img: /assets/img/ovarian_cancer.png
-importance: 11
+importance: 3
 category: Human Microbiome Analyses
 ---
 <div class="row">

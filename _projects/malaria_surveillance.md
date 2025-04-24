@@ -4,8 +4,8 @@ title: Malaria Surveillance Report
 description: Report shared with public health partners for malaria surveillance
 img: assets/img/malaria_surveillance.jpg
 redirect: https://davejacobson12.github.io/malaria_genotyping_report/
-importance: 2
-category: Domestic Surveillance Reports
+importance: 8
+category: ETL Workflows and Report Examples
 ---
 
 Every project has a beautiful feature showcase page.

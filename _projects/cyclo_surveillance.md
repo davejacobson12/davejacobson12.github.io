@@ -4,8 +4,8 @@ title: Cyclospora Surveillance Report
 description: Report shared with public health partners for foodborne disease surveillance
 img: assets/img/cdc_foodborne_pic.jpg
 redirect: https://davejacobson12.github.io/cyclospora_genotyping_report/
-importance: 1
-category: Domestic Surveillance Reports
+importance: 10
+category: ETL Workflows and Report Examples
 ---
 
 Every project has a beautiful feature showcase page.

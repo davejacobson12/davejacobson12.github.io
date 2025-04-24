@@ -3,7 +3,7 @@ layout: page
 title: Human Gut Microbiome Resilience
 description: Estimating functional resilience and redudancy between lifestyles
 img: /assets/img/jaco3003_DDIG_ball_cup_nonresiliant.jpg
-importance: 9
+importance: 1
 category: Human Microbiome Analyses
 ---
 <div class="row">

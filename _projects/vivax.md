@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Tracking Domestic Malaria Cases
-description: Coming Soon
+description: Identifying locally transmitted P. vivax in the U.S.
 img: /assets/img/vivax_image.png
 importance: 5
-category: Domestic Surveillance Analyses
+category: Nationwide Parasitic Disease Surveillance
 ---
 
 <!-- <div class="row">

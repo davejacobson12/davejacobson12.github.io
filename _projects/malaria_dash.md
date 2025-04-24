@@ -4,8 +4,8 @@ title: Malaria Surveillance Dashboard
 description: Internal tracking of specimens submitted for malaria surveillance (Dashboard under development)
 img: assets/img/malaria_dash.jpg
 redirect: https://public.tableau.com/shared/X25GZF545?:display_count=n&:origin=viz_share_link
-importance: 3
-category: Domestic Surveillance Reports
+importance: 9
+category: ETL Workflows and Report Examples
 ---
 
 Every project has a beautiful feature showcase page.

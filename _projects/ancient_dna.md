@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Ancient Oral Microbiomes
-description: Coming Soon
+description: Applying ecological principles to ancient microbiome data
 img: /assets/img/calculus.png
-importance: 10
+importance: 2
 category: Human Microbiome Analyses
 ---
 <div class="row">
