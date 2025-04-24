@@ -5,7 +5,7 @@ permalink: /projects/
 description: Examples of the projects I've worked as a bioinformatician and data analyst
 nav: true
 nav_order: 2
-display_categories: [Domestic Surveillance Reports, Domestic Surveillance Analyses, Human Microbiome Analyses, Fun Projects]
+display_categories: [Human Microbiome Analyses, Nationwide Parasitic Disease Surveillance, ETL Workflows and Report Examples, Fun Projects]
 horizontal: false
 ---
 
