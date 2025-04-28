@@ -27,7 +27,7 @@ Interestingly, 2023 saw a large number of imported *P. vivax* cases that were un
 
 ### My Role
 - Study Design: Genotyping panel design, bioinformatic pipeline development, machine learning algorithm optimization, selecting samples to analyze
-- Analysis: Bioinformatic analysis (QC, mapping,), statistical analysis (clustering, geographic prediction)
+- Analysis: Bioinformatic analysis (QC, mapping, SNP calling), statistical analysis (clustering, geographic prediction)
 - Communication: Presentations to leadership, CDC epidemiologists, State Public Health Department epidemiologists
 - Publication: supporting author, figure generation
 
