@@ -9,7 +9,7 @@ category: Nationwide Parasitic Disease Surveillance
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/assets/img/aac.01203-24.f003.jpg ' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/aac.01203-24.f003.jpg ' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 ---
@@ -20,8 +20,16 @@ The United States sees about 1,000 to 2,000 cases of *P. falciparum* malaria in 
 My team's goal was to transition CDC from using a amplicon-based approach to a whole-genome based approach (i.e., selective whole-genome amplificatio, or sWGA) for *P. falciparum* surveillance. The sWGA approach allows CDC to capture the full length of the original 6 genes, plus potential novel genes/mechanisms of antimalarial resistance, as well as facilitating genome-wide comparisons that can inform public health researchs on *P. falciparum* genomic characteristics that are hidden when only using amplicon data.
 
 ### Analysis
+I worked with teammembers to write a bioinformatic workflow that analyzes sWGA data to call antimalarial drug resistance SNPs, identify complexity of infection (COI), predict geographic origin, detect HRP2/3 deletions, and facilitates clustering of closely related parasites. By benchmarking and validating the antimalarial drug resistance SNP calling of the sWGA workflow, we were able to continue our main goal of detecting drug resistance in the primary 6 genes, while adding the workflow componants listed above, which were not possible with amplicon data. 
+
+COI detection, HRP2/3 deletion, and geographic origin are all useful analyses to more fully describe the *P. falciparum* parasites making returning travelers sick. It allows us to perform a more complete malaria genomic surveillance. Likewise, were able to add the *Pfcoronin* gene to our antimalarial drug resistance detection workflow and more genes were in the process of being added to the workflow when I left CDC. Using sWGA data also facilitates assessing copy number variation, not just SNPs, in drug resistance which again expands CDC's understanding of malaria in returning travelers.
 
 ### Findings
+Through genetic clustering of sWGA data, we were able to link cases together in a presumed hospital-acquired malaria case. Additionally, we were able to confirm that a laboratorian in an independent lab likely contracted malaria from a common control *P. falciparum* strain used in labs across the world. 
+
+Our sWGA drug resistance workflow called 99% of the same drug resistance SNPs as the amplicon workflow. The discrepencies were identified in edge cases for calling mutant vs wildtype in mixed infections, where change of a few reads one way or the other caused a different genotype to called between the amplicon and sWGA workflows.
+
+Our geographic prediction assay was also over 99% accurate at placing the parasites genome in the geographic region where the infection was acquired. This is valuable information in the 10-25% of cases where travel history is not provided to CDC, since we can use the geographic prediction data to inform whether the *P. falciparum* parasite has drug resistance mutations that are consisten with its geographic region, or if known mutations are spreading into new geographic regions.
 
 ### My Role
 - Study Design: Development of geographic prediction panels, identify genes for novel antimalarial resistance analysis
