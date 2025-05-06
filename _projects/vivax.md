@@ -27,6 +27,7 @@ Interestingly, 2023 saw a large number of imported *P. vivax* cases that were un
 
 ### My Role
 - Study Design: Genotyping panel design, bioinformatic pipeline development, machine learning algorithm optimization, selecting samples to analyze
+- Study Management: Manage sample databases
 - Analysis: Bioinformatic analysis (QC, mapping, SNP calling), statistical analysis (clustering, geographic prediction)
 - Communication: Presentations to leadership, CDC epidemiologists, State Public Health Department epidemiologists
 - Publication: supporting author, figure generation
@@ -34,9 +35,4 @@ Interestingly, 2023 saw a large number of imported *P. vivax* cases that were un
 
 ### Publications
 
-Barratt, J. L.N., **Jacobson, D. K**, Pierre-Louis, E., Bajic, M., Kelley, J., Patel, D. S., Goldman, I., Zhou, Z., Shi, Y. P., Ridpath, A., Mace, K.,
-Carlson, C., Sutcliffe, A., Butler, Q., Morrison, A., Stanek, D., Tomson, K., Blackmore, B., Cannons, A., Rollo, S., Wang, C., Tuladhar, R.,
-Clemons, B., Antenucci, S., Mergen, K., White, J., Antwi, M., Rothfeldt, L., Lazenby, K., Hedges, S., Shray, J., Courtney, A., Boyanton,
-B., Qvarnstrom, Y., Freeman, M., and Raphael, B. (Under Review). Genetic characterization of Plasmodium vivax linked to
-autochthonous malaria transmission in the US (2023) using Illumina AmpliSeq technology: a genetic epidemiology study. Lancet
-Regional Health - Americas.
+Barratt, J. L.N., **Jacobson, D. K**, Pierre-Louis, E., Bajic, M., Kelley, J., Patel, D. S., Goldman, I., Zhou, Z., Shi, Y. P., Ridpath, A., Mace, K., Carlson, C., Sutcliffe, A., Butler, Q., Morrison, A., Stanek, D., Tomson, K., Blackmore, B., Cannons, A., Rollo, S., Wang, C., Tuladhar, R., Clemons, B., Antenucci, S., Mergen, K., White, J., Antwi, M., Rothfeldt, L., Lazenby, K., Hedges, S., Shray, J., Courtney, A., Boyanton, B., Qvarnstrom, Y., Freeman, M., and Raphael, B. (Under Review). Genetic characterization of Plasmodium vivax linked to autochthonous malaria transmission in the US (2023) using Illumina AmpliSeq technology: a genetic epidemiology study. Lancet Regional Health - Americas.

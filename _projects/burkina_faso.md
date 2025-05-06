@@ -32,11 +32,7 @@ Overall, non-industrial gut microbiomes had greater richness and evenness for pr
 
 ### Publications
 
-Haffner, J. J., Katemauswa, M., Kagone, T. S., Hossain, E., **Jacobson, D. K.**, Flores, K., Parab, A. R., Obregon-Tito, A. J., Tito, R. Y.,
-Reyes, L. Marin., Troncoso-Corzo, L., Meda, N., Carabin, H. Honap, T. P, Guijo-Pomo E., Sankaranarayanan, K., Lewis Jr, C. M. and
-McCall, L. (2022). Untargeted fecal metabolomic analyses across an industrialization gradient reveal shared metabolites and
+Haffner, J. J., Katemauswa, M., Kagone, T. S., Hossain, E., **Jacobson, D. K.**, Flores, K., Parab, A. R., Obregon-Tito, A. J., Tito, R. Y., Reyes, L. Marin., Troncoso-Corzo, L., Meda, N., Carabin, H. Honap, T. P, Guijo-Pomo E., Sankaranarayanan, K., Lewis Jr, C. M. and McCall, L. (2022). Untargeted fecal metabolomic analyses across an industrialization gradient reveal shared metabolites and
 impact of industrialization on fecal microbiome-metabolome interactions. MSystems 7(6), e00710-22.
 
-**Jacobson, D. K.**, Honap, T. P., Ozga, A. T., Meda, N., Kagone, T. S., Carabin, H., Spicer, P., Tito, R. Y., Obregon-Tito, A. J., Reyes, L. M.,
-Guijo-Pomo E., Sankaranarayanan, K., and Lewis Jr, C. M. (2021). Analysis of global human gut metagenomes shows that metabolic
-resilience potential for short-chain fatty acid production is strongly influenced by lifestyle. Scientific reports 11(1), 1724.
+**Jacobson, D. K.**, Honap, T. P., Ozga, A. T., Meda, N., Kagone, T. S., Carabin, H., Spicer, P., Tito, R. Y., Obregon-Tito, A. J., Reyes, L. M., Guijo-Pomo E., Sankaranarayanan, K., and Lewis Jr, C. M. (2021). Analysis of global human gut metagenomes shows that metabolic resilience potential for short-chain fatty acid production is strongly influenced by lifestyle. Scientific reports 11(1), 1724.

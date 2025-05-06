@@ -38,11 +38,6 @@ Our geographic prediction assay was also over 99% accurate at placing the parasi
 - Publications: supporting author, figure generation, manuscript draft
 
 ### Publications
-White J. L., Ridpath A. D., Guzzardi E., Smith K., Slavinski S., Antwi M., Lee E., Barrett K., Southwick K. L., Gayen S., Quinn M. J., Mace
-K. E., Williams S., Raphael B., **Jacobson, D. K.**, Barratt J. L. N., McElroy P., Antenucci S., Clemons B. M., McKinney K. and Backenson
-B. (In Preparation). Case Report and Epidemiological Investigation of Healthcare-associated Plasmodium falciparum Malaria
-Transmission in Westchester County, New York- 2023
+White J. L., Ridpath A. D., Guzzardi E., Smith K., Slavinski S., Antwi M., Lee E., Barrett K., Southwick K. L., Gayen S., Quinn M. J., Mace K. E., Williams S., Raphael B., **Jacobson, D. K.**, Barratt J. L. N., McElroy P., Antenucci S., Clemons B. M., McKinney K. and Backenson B. (In Preparation). Case Report and Epidemiological Investigation of Healthcare-associated Plasmodium falciparum Malaria Transmission in Westchester County, New York- 2023
 
-Pierre-Louis, E., Kelley, J., Patel, D., Carlson, C., Talundzic, E., **Jacobson, D. K.**, and Barratt, J. L.N. (2024). Geo-classification of
-drug-resistant travel-associated Plasmodium falciparum using Pfs47 and Pfcpmp gene sequences (USA, 2018–2021). Antimicrobial
-Agents and Chemotherapy 68(12), e01203-24.
+Pierre-Louis, E., Kelley, J., Patel, D., Carlson, C., Talundzic, E., **Jacobson, D. K.**, and Barratt, J. L.N. (2024). Geo-classification of drug-resistant travel-associated Plasmodium falciparum using Pfs47 and Pfcpmp gene sequences (USA, 2018–2021). Antimicrobial Agents and Chemotherapy 68(12), e01203-24.

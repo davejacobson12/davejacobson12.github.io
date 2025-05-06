@@ -21,6 +21,6 @@ The workflows I wrote performed a variety of checks to ensure the correct data w
 I also spearhead the implementation of a universal sample naming convention to eliminate previous issues related to sample naming and data entry errors.
 
 ### My Role
-Project Conception: Build malaria ETL workflows from scratch, create sample naming convention, create submission forms
-Technical Duties: Write R and python code for ETL workflows, write python code to automate master sheet formatting for lab staff, troubleshooting when data entry inconsistencies generate error codes in workflow
-Communication: Inform partners of sample/sequence data submission and receipt, train staff and partners on their responsibilities
+- Project Conception: Build malaria ETL workflows from scratch, create sample naming convention, create submission forms
+- Technical Duties: Write R and python code for ETL workflows, write python code to automate master sheet formatting for lab staff, troubleshooting when data entry inconsistencies generate error codes in workflow
+- Communication: Inform partners of sample/sequence data submission and receipt, train staff and partners on their responsibilities
